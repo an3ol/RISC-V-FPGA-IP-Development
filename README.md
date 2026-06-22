@@ -30,6 +30,10 @@
 - RTL \
   \
   ![RTL](Task1/build.png)
+
+- Terminal
+  \
+  ![Terminal](Task1/Terminal.png)
   
 ### Understanding Check
 
