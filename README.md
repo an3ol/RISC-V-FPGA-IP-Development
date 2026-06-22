@@ -31,7 +31,7 @@
   \
   ![RTL](Task1/build.png)
 
-- Terminal
+- Terminal \
   \
   ![Terminal](Task1/Terminal.png)
   
